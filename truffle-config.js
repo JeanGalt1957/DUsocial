@@ -23,6 +23,13 @@ module.exports = {
       timeoutBlocks: 200,
       skipDryRun: true
     },
+    AVAX: {
+      provider: () => new HDWalletProvider(mnemonic, `https://api.avax.network/ext/bc/C/rpc`),
+      network_id: 1,
+      confirmations: 2,
+      timeoutBlocks: 200,
+      skipDryRun: true
+    },
   },
   contracts_directory: './src/contracts/',
   contracts_build_directory: './src/abis/',
