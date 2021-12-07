@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "43b5e9e1bc68ea784375",
+    "revision": "42510910d823e77b0ae1",
     "url": "/DUsocial/static/css/main.4d97ea2b.chunk.css"
   },
   {
-    "revision": "43b5e9e1bc68ea784375",
-    "url": "/DUsocial/static/js/main.43b5e9e1.chunk.js"
+    "revision": "42510910d823e77b0ae1",
+    "url": "/DUsocial/static/js/main.42510910.chunk.js"
   },
   {
     "revision": "30b6bc9b58def4589938",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/DUsocial/static/js/runtime~main.ca932057.js"
   },
   {
-    "revision": "0b26a5690fde776043db3a58623cfab2",
+    "revision": "da89595992d6328917076f968363c921",
     "url": "/DUsocial/index.html"
   }
 ];
