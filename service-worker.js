@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/DUsocial/precache-manifest.39172c2657c029df3c1e51fecbfcf09f.js"
+  "/DUsocial/precache-manifest.de8e703afca1978ed717de0cf2d663fc.js"
 );
 
 workbox.clientsClaim();
