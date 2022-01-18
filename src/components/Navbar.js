@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Identicon from 'identicon.js';
+import {Link} from 'react-router-dom'
 
 class Navbar extends Component {
 
@@ -12,8 +13,16 @@ class Navbar extends Component {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Moth social
+          Contraqtual message board
         </a>
+        <ul className="navbar-nav px-3">
+          <li> 
+            <small className='navlink'>
+            <href id="whitelink"> <a id = "whitelink" href="https://jeangalt1957.github.io/contraqtualmarkets/"> 
+            Home </a></href> 
+            </small>
+          </li>
+        </ul>
         <ul className="navbar-nav px-3">
           <li className="nav-item text-nowrap d-none d-sm-none d-sm-block">
             <small className="text-secondary">
