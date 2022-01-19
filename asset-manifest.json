@@ -1,7 +1,7 @@
 {
   "main.css": "/DUsocial/static/css/main.dcfa4fe8.chunk.css",
-  "main.js": "/DUsocial/static/js/main.7d45d51b.chunk.js",
-  "main.js.map": "/DUsocial/static/js/main.7d45d51b.chunk.js.map",
+  "main.js": "/DUsocial/static/js/main.f3605f94.chunk.js",
+  "main.js.map": "/DUsocial/static/js/main.f3605f94.chunk.js.map",
   "static/css/1.64f7788e.chunk.css": "/DUsocial/static/css/1.64f7788e.chunk.css",
   "static/js/1.49023283.chunk.js": "/DUsocial/static/js/1.49023283.chunk.js",
   "static/js/1.49023283.chunk.js.map": "/DUsocial/static/js/1.49023283.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/1.64f7788e.chunk.css.map": "/DUsocial/static/css/1.64f7788e.chunk.css.map",
   "static/css/main.dcfa4fe8.chunk.css.map": "/DUsocial/static/css/main.dcfa4fe8.chunk.css.map",
   "index.html": "/DUsocial/index.html",
-  "precache-manifest.46420bcad0acfdac8b1261204b567c11.js": "/DUsocial/precache-manifest.46420bcad0acfdac8b1261204b567c11.js",
+  "precache-manifest.e3830d751789bc713fd6fffca86ebdf3.js": "/DUsocial/precache-manifest.e3830d751789bc713fd6fffca86ebdf3.js",
   "service-worker.js": "/DUsocial/service-worker.js"
 }
